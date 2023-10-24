@@ -13,13 +13,13 @@ public class Sum_of_all_digits_in_a_number {
             sum=sum+(n%10);
             n=n/10;
         }
-        
+
         System.out.println(sum);
-
-
-
-
+   
+   
+   
+   
+   
+}
 
     }
-    
-}
