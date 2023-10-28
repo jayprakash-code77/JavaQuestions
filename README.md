@@ -1,0 +1,1 @@
+Java's basic questions and solutions of different platforms.
