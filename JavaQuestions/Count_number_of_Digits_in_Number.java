@@ -1,3 +1,4 @@
+package JavaQuestions;
 class Count_number_of_Digits_in_Number
 {
 	public static void main(String[] args) {

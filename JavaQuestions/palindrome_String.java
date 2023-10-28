@@ -1,3 +1,4 @@
+package JavaQuestions;
 
 
 public class palindrome_String

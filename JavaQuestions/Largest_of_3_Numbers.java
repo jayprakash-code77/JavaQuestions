@@ -1,3 +1,4 @@
+package JavaQuestions;
 import java.util.*;
 public class Largest_of_3_Numbers {
     public static void main(String[] args) {

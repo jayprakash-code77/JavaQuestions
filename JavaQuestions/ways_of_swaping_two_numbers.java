@@ -1,3 +1,4 @@
+package JavaQuestions;
 public class ways_of_swaping_two_numbers {
     public static void main(String[] args) {
         

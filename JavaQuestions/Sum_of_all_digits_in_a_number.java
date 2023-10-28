@@ -1,3 +1,4 @@
+package JavaQuestions;
 import java.util.*;
 public class Sum_of_all_digits_in_a_number {
     public static void main(String[] args) {

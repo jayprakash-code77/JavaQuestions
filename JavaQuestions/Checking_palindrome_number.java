@@ -1,3 +1,4 @@
+package JavaQuestions;
 public class Checking_palindrome_number {
     
     public static void main(String[] args) {

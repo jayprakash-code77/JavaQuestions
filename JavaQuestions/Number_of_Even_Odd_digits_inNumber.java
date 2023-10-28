@@ -1,3 +1,4 @@
+package JavaQuestions;
 import java.util.*;
 public class Number_of_Even_Odd_digits_inNumber {
     public static void main(String[] args) {

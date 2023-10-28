@@ -1,3 +1,4 @@
+package JavaQuestions;
 public class different_ways_to_reverse_number {
     public static void main(String[] args) {
         

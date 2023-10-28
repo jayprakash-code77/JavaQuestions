@@ -1,3 +1,4 @@
+package JavaQuestions;
 import java.util.*;
 public class generate_Fibonacci_series {
     public static void main(String[] args) {

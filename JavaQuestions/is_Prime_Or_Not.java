@@ -1,3 +1,4 @@
+package JavaQuestions;
 import java.util.*;
 class is_Prime_Or_Not {
     public static void main(String[] args) {
