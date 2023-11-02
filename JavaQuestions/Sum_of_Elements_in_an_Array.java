@@ -5,6 +5,7 @@ import java.util.*;
 
 public class Sum_of_Elements_in_an_Array {
 
+    // Function that takes array as input 
     public static int[] TakeArray(int arraySize){
         Scanner sc=new Scanner(System.in);
         int []arry=new int[arraySize];
@@ -14,7 +15,7 @@ public class Sum_of_Elements_in_an_Array {
         return arry;
     
     }
-
+//   Function that print the sum of array
     public static void PrintArraySum(int Array_Size){
         int [] jay=TakeArray(Array_Size);
         int sum=0;
@@ -25,11 +26,6 @@ public class Sum_of_Elements_in_an_Array {
         
     }
     public static void main(String[] args) {
-        // Sum of elements in an array
-        // int arr[]={1,2,3,4,5};
         PrintArraySum(5);
-        
-        
-        
     }
 }
