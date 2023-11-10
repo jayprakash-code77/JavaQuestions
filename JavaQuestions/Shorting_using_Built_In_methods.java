@@ -1,6 +1,5 @@
 package JavaQuestions;
 import java.util.Arrays;
-import java.util.Collection;
 import java.util.Collections;
 
 public class Shorting_using_Built_In_methods {
