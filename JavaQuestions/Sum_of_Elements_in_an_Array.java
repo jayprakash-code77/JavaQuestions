@@ -22,6 +22,7 @@ public class Sum_of_Elements_in_an_Array {
         for(int i=0;i<jay.length;i++){
             sum = sum+jay[i];
         }
+        
         System.out.println(sum);
         
     }
