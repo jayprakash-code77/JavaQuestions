@@ -4,7 +4,7 @@ public class Remove_white_spaces_in_a_String {
     public static void main(String[] args) {
         String str="Jay       Prakash Maurya";
         // str=str.replaceAll(" ", "");// first way
-        str=str.replaceAll("\\s", "");
+        str=str.replaceAll("\\s", "");  // second way
         System.out.println(str);
 
     }
