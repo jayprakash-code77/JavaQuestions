@@ -1,9 +1,9 @@
 package JavaQuestions;
 
-public class Remove_white_spaces_in_String {
+public class Count_number_of_Occurence_of_a_charactor {
     public static void main(String[] args) {
         
-        String s="ay Prakash Maury";
+        String s="jay Prakash Maury";
         int totalcount=s.length();
         int TotalAfterREmve=s.replace("a", "").length();
         int count=totalcount-TotalAfterREmve;
