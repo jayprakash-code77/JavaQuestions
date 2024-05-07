@@ -12,6 +12,7 @@ public static int Pow(int Base, int Power,int Result){
     return Base * Pow(Base, Power-1,Result*Base);
 }
     public static void main(String[] args) {
+        System.out.println("The power calculated is :-");
        int ans= Pow(3, 2,1);
        System.out.println(ans);
     }
